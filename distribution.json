@@ -1,0 +1,392 @@
+{
+  "version": "1.0.0",
+  "rss": "<LINK TO RSS FEED>",
+  "discord": {
+    "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+    "smallImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+    "smallImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+  },
+  "servers": [
+    {
+      "id": "6321-1.20.1",
+      "name": "6321 (Minecraft 1.20.1)",
+      "description": "6321 Running Minecraft 1.20.1",
+      "icon": null,
+      "version": "1.0.0",
+      "address": "116.127.73.38",
+      "minecraftVersion": "1.20.1",
+      "discord": {
+        "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+        "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+        "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+      },
+      "mainServer": true,
+      "autoconnect": true,
+      "modules": [
+        {
+          "id": "armourers_workshop-client.toml",
+          "name": "armourers_workshop-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 4681,
+            "url": "https://siin411.github.io/6321/servers/6321-1.20.1/files/config/armourers_workshop-client.toml",
+            "MD5": "6a03f86aa52d89123438269dc9630c2a",
+            "path": "config/armourers_workshop-client.toml"
+          }
+        },
+        {
+          "id": "armourers_workshop-common.toml",
+          "name": "armourers_workshop-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 5650,
+            "url": "https://siin411.github.io/6321/servers/6321-1.20.1/files/config/armourers_workshop-common.toml",
+            "MD5": "0cf7735863c0e2b5b2f6f98a1f4b40aa",
+            "path": "config/armourers_workshop-common.toml"
+          }
+        },
+        {
+          "id": "asteorbar.json5",
+          "name": "asteorbar.json5",
+          "type": "File",
+          "artifact": {
+            "size": 13355,
+            "url": "https://siin411.github.io/6321/servers/6321-1.20.1/files/config/asteorbar.json5",
+            "MD5": "bfb26fde339151999feb8bce11e0fc91",
+            "path": "config/asteorbar.json5"
+          }
+        },
+        {
+          "id": "betterf3.json",
+          "name": "betterf3.json",
+          "type": "File",
+          "artifact": {
+            "size": 1357,
+            "url": "https://siin411.github.io/6321/servers/6321-1.20.1/files/config/betterf3.json",
+            "MD5": "0969d469ca2f778d8d91317d65b23f84",
+            "path": "config/betterf3.json"
+          }
+        },
+        {
+          "id": "chat_heads.json5",
+          "name": "chat_heads.json5",
+          "type": "File",
+          "artifact": {
+            "size": 186,
+            "url": "https://siin411.github.io/6321/servers/6321-1.20.1/files/config/chat_heads.json5",
+            "MD5": "bb9ec2f6f04d4905eb0501d30ce13923",
+            "path": "config/chat_heads.json5"
+          }
+        },
+        {
+          "id": "enchdesc.json",
+          "name": "enchdesc.json",
+          "type": "File",
+          "artifact": {
+            "size": 189,
+            "url": "https://siin411.github.io/6321/servers/6321-1.20.1/files/config/enchdesc.json",
+            "MD5": "1b3ec4850780b441c72be140fc73bce3",
+            "path": "config/enchdesc.json"
+          }
+        },
+        {
+          "id": "etf_warnings.json",
+          "name": "etf_warnings.json",
+          "type": "File",
+          "artifact": {
+            "size": 28,
+            "url": "https://siin411.github.io/6321/servers/6321-1.20.1/files/config/etf_warnings.json",
+            "MD5": "b49b5603d2df29fa132f89ec91974572",
+            "path": "config/etf_warnings.json"
+          }
+        },
+        {
+          "id": "indigo-renderer.properties",
+          "name": "indigo-renderer.properties",
+          "type": "File",
+          "artifact": {
+            "size": 290,
+            "url": "https://siin411.github.io/6321/servers/6321-1.20.1/files/config/fabric/indigo-renderer.properties",
+            "MD5": "f4bfcb8e3fa027cb6e29bda51ae6f044",
+            "path": "config/fabric/indigo-renderer.properties"
+          }
+        },
+        {
+          "id": "ferritecore.mixin.properties",
+          "name": "ferritecore.mixin.properties",
+          "type": "File",
+          "artifact": {
+            "size": 1525,
+            "url": "https://siin411.github.io/6321/servers/6321-1.20.1/files/config/ferritecore.mixin.properties",
+            "MD5": "bf3e6be63e300b0290cfc849beb64ede",
+            "path": "config/ferritecore.mixin.properties"
+          }
+        },
+        {
+          "id": "iris.properties",
+          "name": "iris.properties",
+          "type": "File",
+          "artifact": {
+            "size": 265,
+            "url": "https://siin411.github.io/6321/servers/6321-1.20.1/files/config/iris.properties",
+            "MD5": "0a95c3076ac7886cc6fdcf007e4e2868",
+            "path": "config/iris.properties"
+          }
+        },
+        {
+          "id": "lithium.properties",
+          "name": "lithium.properties",
+          "type": "File",
+          "artifact": {
+            "size": 430,
+            "url": "https://siin411.github.io/6321/servers/6321-1.20.1/files/config/lithium.properties",
+            "MD5": "422e0797eef9c35fe7d8ecea0ac3f567",
+            "path": "config/lithium.properties"
+          }
+        },
+        {
+          "id": "midnightlib.json",
+          "name": "midnightlib.json",
+          "type": "File",
+          "artifact": {
+            "size": 37,
+            "url": "https://siin411.github.io/6321/servers/6321-1.20.1/files/config/midnightlib.json",
+            "MD5": "5d33d36208b50f3a0951695c2e806d98",
+            "path": "config/midnightlib.json"
+          }
+        },
+        {
+          "id": "modmenu.json",
+          "name": "modmenu.json",
+          "type": "File",
+          "artifact": {
+            "size": 814,
+            "url": "https://siin411.github.io/6321/servers/6321-1.20.1/files/config/modmenu.json",
+            "MD5": "e8f3869015601ad3afae3fa4412c307c",
+            "path": "config/modmenu.json"
+          }
+        },
+        {
+          "id": "notenoughanimations.json",
+          "name": "notenoughanimations.json",
+          "type": "File",
+          "artifact": {
+            "size": 2384,
+            "url": "https://siin411.github.io/6321/servers/6321-1.20.1/files/config/notenoughanimations.json",
+            "MD5": "7e66e4d3b3e33bab3b01f45c544af832",
+            "path": "config/notenoughanimations.json"
+          }
+        },
+        {
+          "id": "sodium-fingerprint.json",
+          "name": "sodium-fingerprint.json",
+          "type": "File",
+          "artifact": {
+            "size": 427,
+            "url": "https://siin411.github.io/6321/servers/6321-1.20.1/files/config/sodium-fingerprint.json",
+            "MD5": "f8f39f97cdd2b885dcbef2dbbeba2068",
+            "path": "config/sodium-fingerprint.json"
+          }
+        },
+        {
+          "id": "sodium-mixins.properties",
+          "name": "sodium-mixins.properties",
+          "type": "File",
+          "artifact": {
+            "size": 265,
+            "url": "https://siin411.github.io/6321/servers/6321-1.20.1/files/config/sodium-mixins.properties",
+            "MD5": "456d99888369486f42d6ea7f70294170",
+            "path": "config/sodium-mixins.properties"
+          }
+        },
+        {
+          "id": "sodium-options.json",
+          "name": "sodium-options.json",
+          "type": "File",
+          "artifact": {
+            "size": 624,
+            "url": "https://siin411.github.io/6321/servers/6321-1.20.1/files/config/sodium-options.json",
+            "MD5": "819b75c111bb27d7614179e9218471d5",
+            "path": "config/sodium-options.json"
+          }
+        },
+        {
+          "id": "translations.properties",
+          "name": "translations.properties",
+          "type": "File",
+          "artifact": {
+            "size": 1182,
+            "url": "https://siin411.github.io/6321/servers/6321-1.20.1/files/config/voicechat/translations.properties",
+            "MD5": "4af29bbbf5267fe4298e80c2e6ebca63",
+            "path": "config/voicechat/translations.properties"
+          }
+        },
+        {
+          "id": "username-cache.json",
+          "name": "username-cache.json",
+          "type": "File",
+          "artifact": {
+            "size": 2,
+            "url": "https://siin411.github.io/6321/servers/6321-1.20.1/files/config/voicechat/username-cache.json",
+            "MD5": "99914b932bd37a50b983c5e7c90ae93b",
+            "path": "config/voicechat/username-cache.json"
+          }
+        },
+        {
+          "id": "voicechat-client.properties",
+          "name": "voicechat-client.properties",
+          "type": "File",
+          "artifact": {
+            "size": 4292,
+            "url": "https://siin411.github.io/6321/servers/6321-1.20.1/files/config/voicechat/voicechat-client.properties",
+            "MD5": "c84cdf8517bdc7a374109d96267d8a8c",
+            "path": "config/voicechat/voicechat-client.properties"
+          }
+        },
+        {
+          "id": "voicechat-server.properties",
+          "name": "voicechat-server.properties",
+          "type": "File",
+          "artifact": {
+            "size": 2502,
+            "url": "https://siin411.github.io/6321/servers/6321-1.20.1/files/config/voicechat/voicechat-server.properties",
+            "MD5": "e7f0e62a80147a9d203c69cca35b5f3a",
+            "path": "config/voicechat/voicechat-server.properties"
+          }
+        },
+        {
+          "id": "voicechat-volumes.properties",
+          "name": "voicechat-volumes.properties",
+          "type": "File",
+          "artifact": {
+            "size": 37,
+            "url": "https://siin411.github.io/6321/servers/6321-1.20.1/files/config/voicechat/voicechat-volumes.properties",
+            "MD5": "fcb38654c898989fdf9b82707c3ee2f5",
+            "path": "config/voicechat/voicechat-volumes.properties"
+          }
+        },
+        {
+          "id": "xaerominimap-common.txt",
+          "name": "xaerominimap-common.txt",
+          "type": "File",
+          "artifact": {
+            "size": 147,
+            "url": "https://siin411.github.io/6321/servers/6321-1.20.1/files/config/xaerominimap-common.txt",
+            "MD5": "890c05c089deab689459d17a92180080",
+            "path": "config/xaerominimap-common.txt"
+          }
+        },
+        {
+          "id": "xaerominimap.txt",
+          "name": "xaerominimap.txt",
+          "type": "File",
+          "artifact": {
+            "size": 3643,
+            "url": "https://siin411.github.io/6321/servers/6321-1.20.1/files/config/xaerominimap.txt",
+            "MD5": "acc72b2e3cb3091295d8640ed5d07d4e",
+            "path": "config/xaerominimap.txt"
+          }
+        },
+        {
+          "id": "xaerominimap_entities.json",
+          "name": "xaerominimap_entities.json",
+          "type": "File",
+          "artifact": {
+            "size": 5531,
+            "url": "https://siin411.github.io/6321/servers/6321-1.20.1/files/config/xaerominimap_entities.json",
+            "MD5": "d17ab81eca26d2f6a6630a8840183dae",
+            "path": "config/xaerominimap_entities.json"
+          }
+        },
+        {
+          "id": "xaeropatreon.txt",
+          "name": "xaeropatreon.txt",
+          "type": "File",
+          "artifact": {
+            "size": 0,
+            "url": "https://siin411.github.io/6321/servers/6321-1.20.1/files/config/xaeropatreon.txt",
+            "MD5": "d41d8cd98f00b204e9800998ecf8427e",
+            "path": "config/xaeropatreon.txt"
+          }
+        },
+        {
+          "id": "xaeroworldmap-common.txt",
+          "name": "xaeroworldmap-common.txt",
+          "type": "File",
+          "artifact": {
+            "size": 122,
+            "url": "https://siin411.github.io/6321/servers/6321-1.20.1/files/config/xaeroworldmap-common.txt",
+            "MD5": "7d0707ae96f31ce46b635352e8dc0eed",
+            "path": "config/xaeroworldmap-common.txt"
+          }
+        },
+        {
+          "id": "xaeroworldmap.txt",
+          "name": "xaeroworldmap.txt",
+          "type": "File",
+          "artifact": {
+            "size": 1218,
+            "url": "https://siin411.github.io/6321/servers/6321-1.20.1/files/config/xaeroworldmap.txt",
+            "MD5": "4657c2097a1266499d271d200b5678cb",
+            "path": "config/xaeroworldmap.txt"
+          }
+        },
+        {
+          "id": "1_Font.zip",
+          "name": "1_Font.zip",
+          "type": "File",
+          "artifact": {
+            "size": 1747545,
+            "url": "https://siin411.github.io/6321/servers/6321-1.20.1/files/resourcepacks/1_Font.zip",
+            "MD5": "feeac69b7ae6b90c9afab55cd7342134",
+            "path": "resourcepacks/1_Font.zip"
+          }
+        },
+        {
+          "id": "2_server.zip",
+          "name": "2_server.zip",
+          "type": "File",
+          "artifact": {
+            "size": 18843453,
+            "url": "https://siin411.github.io/6321/servers/6321-1.20.1/files/resourcepacks/2_server.zip",
+            "MD5": "46549d83d14014818b08a890cdc12287",
+            "path": "resourcepacks/2_server.zip"
+          }
+        },
+        {
+          "id": "3_add.zip",
+          "name": "3_add.zip",
+          "type": "File",
+          "artifact": {
+            "size": 5878531,
+            "url": "https://siin411.github.io/6321/servers/6321-1.20.1/files/resourcepacks/3_add.zip",
+            "MD5": "f81435dfda0ca602133bcfafff5e4a50",
+            "path": "resourcepacks/3_add.zip"
+          }
+        },
+        {
+          "id": "BSL_v8.4.zip",
+          "name": "BSL_v8.4.zip",
+          "type": "File",
+          "artifact": {
+            "size": 1105442,
+            "url": "https://siin411.github.io/6321/servers/6321-1.20.1/files/shaderpacks/BSL_v8.4.zip",
+            "MD5": "9cbe8c2b70a992a50853875482eec66a",
+            "path": "shaderpacks/BSL_v8.4.zip"
+          }
+        },
+        {
+          "id": "ComplementaryUnbound_r5.3.zip",
+          "name": "ComplementaryUnbound_r5.3.zip",
+          "type": "File",
+          "artifact": {
+            "size": 446661,
+            "url": "https://siin411.github.io/6321/servers/6321-1.20.1/files/shaderpacks/ComplementaryUnbound_r5.3.zip",
+            "MD5": "50893f00c06b63dfd140dbcac22cc69f",
+            "path": "shaderpacks/ComplementaryUnbound_r5.3.zip"
+          }
+        }
+      ]
+    }
+  ]
+}
